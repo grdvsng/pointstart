@@ -1,7 +1,5 @@
 # pointstart
-Name: PointStart
-Author: Sergey Trishkin
-language: Autoit
-Description: Program for creating safe runAS link
-
-**The program is ready for use.
+<h2>Name: PointStart</h2>
+<h2>Author: Sergey Trishkin</h2>
+<h2>language: Autoit</h2>
+<h2>Description: Program for creating safe runAS li</h2>
