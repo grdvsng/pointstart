@@ -116,7 +116,7 @@ Func IfExist()
 	  GUICtrlDelete($foldstr)
 	  $folider = Default ; Необходимо для блокирования получений сообщений GUI от нового элемента.
 	  ; Создание новых элементиов GUI.
-	  $next = GUICtrlCreateLabel("Установка", $w-($wbut*0.97), $h-($wbut*0.8), $wbut, $whight, 0x0B)
+	  $next = GUICtrlCreateLabel("Installation", $w-($wbut*0.97), $h-($wbut*0.8), $wbut, $whight, 0x0B)
 	  GUICtrlSetFont($next, $fontsize)
 	  $progress = GUICtrlCreateProgress($wbut*0.1, $h-($wbut*0.85), $wbut*2.8, $whight*0.7, 0x10)
 	  GUICtrlSetColor($progress, 0xfffff)
